@@ -1,2 +1,3 @@
-# exercises-
-JavaScript 
+# JavaScript 
+exercises
+Coperisons adn Conditionals
